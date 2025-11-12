@@ -1,6 +1,6 @@
 # ✅ PERN To-Do App
 
-A full-stack To-Do application built using **PostgreSQL, Express, React, and Node.js**.  
+A full-stack To-Do application with a front end built using **HTML, CSS, JavaScript, React**, and a back end powered by **Node.js, Express, and PostgreSQL**.  
 Designed for quick, simple, and reliable task management across devices.
 
 ---
@@ -73,8 +73,8 @@ Clean design, instant feedback, and responsive UI make productivity effortless.
 
 | Layer | Technology |
 |-------|-------------|
-| Frontend | React, HTML, CSS, JavaScript |
-| Backend | Express & Node.js |
+| Frontend | HTML, CSS, JavaScript, React |
+| Backend | Node.js, Express |
 | Database | PostgreSQL (SQLite optional for local development) |
 | Security | Helmet, Input Validation, sanitise-html |
 | Deployment | Render |
